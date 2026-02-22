@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Stomp!",
+  "base_artist": "The Brothers Johnson",
+  "createdAt": "2026-02-22T12:16:34.514794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honky Tonk Stomp -",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_Honky_Tonk_Stomp_-_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honky Tonk Stomp (featuring Billy Gibbons)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/02_Honky_Tonk_Stomp_(featuring_Billy_Gibbons)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stomp",
+      "artist": "The Roots feat. Greg Porn",
+      "has_synced": true,
+      "path": "select/03_Stomp_The_Roots_feat._Greg_Porn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stomp (Feat. Greg Porn)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/04_Stomp_(Feat._Greg_Porn)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bron-Y-Aur Stomp - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/05_Bron-Y-Aur_Stomp_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bron-y-aur Stomp",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_Bron-y-aur_Stomp_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Delta Sun Bottleneck Stomp",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/07_Delta_Sun_Bottleneck_Stomp_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Delta Sun Bottleneck Stomp (Chemical Brothers remix)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/08_Delta_Sun_Bottleneck_Stomp_(Chemical_Brothers_remix)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Delta Sun Bottleneck Stomp (Chemical Brothers Mix)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/09_Delta_Sun_Bottleneck_Stomp_(Chemical_Brothers_Mix)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Stomp",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/10_The_Stomp_Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hyperballad (The Stomp Mix) [LFO]",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/11_Hyperballad_(The_Stomp_Mix)_[LFO]_Björk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hyperballad (The Stomp Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/12_Hyperballad_(The_Stomp_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Delta sun bottleneck stomp (The Chemical Brothers Remix)",
+      "artist": "The Chemical Brothers/Mercury Rev",
+      "has_synced": false,
+      "path": "select/13_Delta_sun_bottleneck_stomp_(The_Chemical_Brothers_Remix)_The_Chemical_Brothers_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Milkmen Stomp",
+      "artist": "The Dead Milkmen",
+      "has_synced": true,
+      "path": "select/14_Milkmen_Stomp_The_Dead_Milkmen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stomp Your Hands, Clap Your Feet",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/15_Stomp_Your_Hands,_Clap_Your_Feet_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stomp Your Hands Clap Yo",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/16_Stomp_Your_Hands_Clap_Yo_Quiet_Riot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stomp!",
+      "artist": "The Brothers Johnson",
+      "has_synced": false,
+      "path": "select/pl_01_Stomp!_The_Brothers_Johnson.txt"
+    }
+  ]
+}
